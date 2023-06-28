@@ -36,7 +36,7 @@ python3 main.py
 
 3. Click `START DISCOVERY` and click `CONNECT FLIR ONE` once the camera is discovered
 
-4. Click `CAPTURE` to take a thermal picture and check the temperature detected
+4. Click `CAPTURE` to take a thermal picture and check the temperature of the detected face
 
 
 <!-- CONTACT -->
